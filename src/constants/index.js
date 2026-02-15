@@ -92,36 +92,17 @@ const technologies = [
 
 const experiences = [
   {
-    title: "",
-    company_name: "",
+    title: "Unity3D Developer Intern",
+    company_name: "Jabsz Gaming Studios LLP (Remote)",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "",
-    points: ["Working on it :)"],
-  },
-  {
-    title: "",
-    company_name: "",
-    icon: tesla,
-    iconBg: "#E6DEDD",
-    date: "",
-    points: ["we will get there!"],
-  },
-  {
-    title: "",
-    company_name: "",
-    icon: shopify,
-    iconBg: "#383E56",
-    date: "",
-    points: ["learning arc continues"],
-  },
-  {
-    title: "",
-    company_name: "",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "",
-    points: ["......"],
+    date: "August 2025 - Present",
+    points: [
+      "Engineered multiplayer systems in Unity3D and Photon Fusion, enabling real-time synchronization for 10+ concurrent players with minimal latency.",
+      "Optimized state replication and collision handling, reducing packet loss by 15% and improving gameplay stability.",
+      "Refactored performance-critical Unity scripts, achieving 20-25% higher FPS in multiplayer sessions.",
+      "Technologies: Unity3D, Photon Fusion, C#, Git, Agile.",
+    ],
   },
 ];
 
