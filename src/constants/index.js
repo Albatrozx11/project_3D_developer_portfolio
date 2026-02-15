@@ -16,7 +16,6 @@ import {
   figma,
   docker,
   meta,
-  starbucks,
   tesla,
   shopify,
   carrent,
@@ -94,7 +93,7 @@ const experiences = [
   {
     title: "Unity3D Developer Intern",
     company_name: "Jabsz Gaming Studios LLP (Remote)",
-    icon: starbucks,
+    icon: "/src/assets/company/jabsz.png",
     iconBg: "#383E56",
     date: "August 2025 - Present",
     points: [
