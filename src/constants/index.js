@@ -14,6 +14,7 @@ import {
   mongodb,
   git,
   figma,
+  jabsz,
   docker,
   meta,
   tesla,
